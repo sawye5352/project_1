@@ -9,7 +9,8 @@
   flex-direction: column;
   width: 1500px;
   height: 1100px;
-  background: url("images/box-1-background.png") center/cover no-repeat, lightgray;
+  background: url("images/box-1-background.png") center/cover no-repeat,
+    lightgray;
 }
 
 .box-1 img,
