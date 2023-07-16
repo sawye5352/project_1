@@ -1,0 +1,137 @@
+body {
+  background-color: #eee8e8;
+}
+
+.back-to-home {
+  margin: 81px 1078px 45px 61px;
+}
+
+.back-to-home a {
+  color: #a1a6a9;
+  margin-left: 25.53px;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+
+/* Classes Section Start */
+
+.class {
+  width: 1440px;
+  height: 750px;
+  min-width: 100%;
+  min-height: 100%;
+  margin-bottom: 91px;
+  position: relative;
+  background-color: white;
+}
+
+.class-img {
+  position: absolute;
+}
+
+.class-content {
+  position: absolute;
+  width: 884px;
+  height: 626px;
+  margin: 66px 66px 58px 490px;
+  background-color: #eee8e8;
+}
+
+.available-classes,
+.class-heading,
+.class-paragraph,
+.date-and-time {
+  margin-left: 75px;
+}
+
+.available-classes {
+  color: #740303;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: 1.2px;
+  margin-top: 44px;
+}
+
+.class-heading {
+  color: #413b3b;
+  font-family: Poppins;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 1.8px;
+}
+
+.class-paragraph {
+  width: 780px;
+  height: 216px;
+  color: #413b3b;
+  font-family: Poppins;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.36px;
+  margin-top: 18px;
+}
+
+.date-and-time {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 78px;
+  margin-bottom: 52px;
+
+}
+
+.date h6 {
+  color: #413b3b;
+  font-family: Poppins;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1.36px;
+}
+
+.date p {
+  color: #413b3b;
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.28px;
+}
+
+.time {
+  margin-right: 167px;
+}
+
+.time h6 {
+  color: #413b3b;
+  font-family: Poppins;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 1.36px;
+}
+
+.time p {
+  color: #413b3b;
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 1.28px;
+}
+
+/* Classes Section End */
